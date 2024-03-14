@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrewkimjoseph
-- 👀 I’m interested in Flutter Mobile App Development
+- 👀 I’m interested in Flutter Mobile and Web App Development, and React/Angular Development
 - 🌱 I’m currently learning the FlutterFire stack
 - 💞️ I’m looking to collaborate on any Dart-related project
 - 📫 How to reach me? Well, send me an email at andrewkimjoseph@yahoo.com
