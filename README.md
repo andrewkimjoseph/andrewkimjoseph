@@ -84,7 +84,7 @@ I'm a passionate developer specializing in both **Web3** and **cross-platform mo
 - 🔥 Advanced **FlutterFire** integration patterns
 - 🚄 **Next.js App Router** & Server Components for enhanced performance
 - ⛓️ **Layer 2** blockchain development for scalable applications
-- 🅰️ **Angular** for enterprise applications
+
 
 ## 🔭 Projects & Contributions
 
