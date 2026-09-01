@@ -60,19 +60,19 @@ Originated at **Build with Celo 7**, supported by **Prezenti** grants.
 
 <div align="center">
   <a href="https://github.com/andrewkimjoseph/pax_v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewkimjoseph&repo=pax_v2&theme=tokyonight" alt="Pax" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewkimjoseph&repo=pax_v2&theme=tokyonight" alt="Pax" />
   </a>
   <a href="https://github.com/andrewkimjoseph/rez">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewkimjoseph&repo=rez&theme=tokyonight" alt="Rez" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewkimjoseph&repo=rez&theme=tokyonight" alt="Rez" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/andrewkimjoseph/celina">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewkimjoseph&repo=celina&theme=tokyonight" alt="Celina" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewkimjoseph&repo=celina&theme=tokyonight" alt="Celina" />
   </a>
   <a href="https://github.com/andrewkimjoseph/celina-mcp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewkimjoseph&repo=celina-mcp&theme=tokyonight" alt="Celina MCP" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewkimjoseph&repo=celina-mcp&theme=tokyonight" alt="Celina MCP" />
   </a>
 </div>
 
@@ -169,8 +169,8 @@ Originated at **Build with Celo 7**, supported by **Prezenti** grants.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrewkimjoseph&show_icons=true&count_private=true&hide=issues&theme=tokyonight" alt="Andrew's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkimjoseph&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=andrewkimjoseph&show_icons=true&count_private=true&hide=issues&theme=tokyonight" alt="Andrew's GitHub Stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=andrewkimjoseph&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ## 💬 Let's Connect!
